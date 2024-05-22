@@ -1,13 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Magicdove</title><link>https://magicdover.github.io</link><description>夫哀莫大于心死，而人死亦次之。</description><copyright>Magicdove</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://kycloud3.koyoo.cn/202405204faf920240520191704881.jpg</url><title>avatar</title><link>https://magicdover.github.io</link></image><lastBuildDate>Tue, 21 May 2024 12:03:17 +0000</lastBuildDate><managingEditor>Magicdove</managingEditor><ttl>60</ttl><webMaster>Magicdove</webMaster><item><title>涠洲岛攻略（附上攻略图）</title><link>https://magicdover.github.io/post/wei-zhou-dao-gong-lve-%EF%BC%88-fu-shang-gong-lve-tu-%EF%BC%89.html</link><description>&#13;
-## 1. 前言&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Magicdove</title><link>https://magicdover.github.io</link><description>夫哀莫大于心死，而人死亦次之。</description><copyright>Magicdove</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://kycloud3.koyoo.cn/202405204faf920240520191704881.jpg</url><title>avatar</title><link>https://magicdover.github.io</link></image><lastBuildDate>Wed, 22 May 2024 03:11:18 +0000</lastBuildDate><managingEditor>Magicdove</managingEditor><ttl>60</ttl><webMaster>Magicdove</webMaster><item><title>广西北海市涠洲岛攻略</title><link>https://magicdover.github.io/post/guang-xi-bei-hai-shi-wei-zhou-dao-gong-lve.html</link><description>## 1. 前言&#13;
 &#13;
-去年5月，趁着北海天气不错，去涠洲岛玩了3天，特来给各位分享一下自己的攻略！不仅是涠洲岛，也在北海市区附近玩了，都是自己的所见所感，有意见的朋友还望多多包涵！&#13;
-&#13;
-## 2. 攻略&#13;
-&#13;
-### 2.1 时间&#13;
-&#13;
-关于时间，我是5月份去的，在岛上待了三天两晚，18日上午到，20日晚上回，住的民宿位置是在西角码头附近。</description><guid isPermaLink="true">https://magicdover.github.io/post/wei-zhou-dao-gong-lve-%EF%BC%88-fu-shang-gong-lve-tu-%EF%BC%89.html</guid><pubDate>Mon, 20 May 2024 10:12:50 +0000</pubDate></item><item><title>第一篇 Gmeek 个人博客</title><link>https://magicdover.github.io/post/di-yi-pian-%20Gmeek%20-ge-ren-bo-ke.html</link><description># Gmeek 超轻量级个人博客框架&#13;
+去年，也就是2023年5月，趁着北海天气不错，去北海涠洲岛玩了3天，特来给各位分享一下自己的攻略！当然不仅是涠洲岛，也在北海市区附近玩了，比如冠头岭和北海老街。</description><guid isPermaLink="true">https://magicdover.github.io/post/guang-xi-bei-hai-shi-wei-zhou-dao-gong-lve.html</guid><pubDate>Tue, 21 May 2024 15:20:32 +0000</pubDate></item><item><title>第一篇 Gmeek 个人博客</title><link>https://magicdover.github.io/post/di-yi-pian-%20Gmeek%20-ge-ren-bo-ke.html</link><description># Gmeek 超轻量级个人博客框架&#13;
 &#13;
 这是一个博客框架，超轻量级个人博客模板。</description><guid isPermaLink="true">https://magicdover.github.io/post/di-yi-pian-%20Gmeek%20-ge-ren-bo-ke.html</guid><pubDate>Thu, 16 May 2024 08:14:31 +0000</pubDate></item></channel></rss>
